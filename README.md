@@ -1,5 +1,5 @@
 # Coding-test-EDA
-MOTIVATION
+## MOTIVATION
 Currently, it is a norm for companies to implement coding test as their job initial assessment . This EDA will provide an insight on performing analysis for you and my future self.
 
 CASE STUDY
